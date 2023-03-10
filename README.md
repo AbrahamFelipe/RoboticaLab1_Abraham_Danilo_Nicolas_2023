@@ -5,5 +5,6 @@
 - Nicolas
 ## Descripción de la solución planteada
 ## Diseño de la herramienta:
+Para el diseño de la herramienta porta marcador se tuvo en cuenta que, esta no se encontrará alineada con la articulación 
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica.
 ## Video, simulación e implementación

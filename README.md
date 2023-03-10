@@ -16,7 +16,7 @@ Se planteó hacer la herramienta a través de diferentes piezas de MDF cortadas 
 </p>
 </div>
 
-Despues del corte laser se pegaron las piezas y se colocó un tubo de PVC que sostiene el marcador y en el fondo tiene un resorte para darle flexibilidad al momento de escribir.
+Después del corte láser se pegaron las piezas y se colocó un tubo de PVC que sostiene el marcador y en el fondo tiene un resorte para darle flexibilidad al momento de escribir.
 
 <div>
 <p style = 'text-align:center;'>
@@ -25,13 +25,17 @@ Despues del corte laser se pegaron las piezas y se colocó un tubo de PVC que so
 </div>
 
 
-## Código en RAPID del módulo utilizado para el desarrollo de la práctica.
+## Generación de trayectorias
+Para realizar las trayectorias primero se realizó en inventor el modelo de las letras a escribir.
+
+
+
 El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano sin inclinar]() y [plano inclinado](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/tree/main/Paths-CodigoRAPID/Codigo%20RAPID%20plano%20inclinado).
 
 
 ## Video, simulación e implementación
 
-1)Video de la simulacion de la escritura en el piso (dar click en la imagen)
+1)Video de la simulación de la escritura en el piso (dar click en la imagen)
 
 <a href="https://youtu.be/egIbVox9zpI" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/simulacion%20piso.PNG" 
 alt="IMAGE ALT TEXT HERE" width="299" height="315" border="10" /></a>

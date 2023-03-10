@@ -2,7 +2,7 @@
 ### Integrantes: 
 - Danilo Enrique Insuasty Delgado.
 - Abraham Másmela Ramirez
-- Nicolas
+- Nicolás Prieto Solano
 ## Descripción de la solución planteada
 ## Diseño de la herramienta:
 Para el diseño de la herramienta porta marcador se tuvo en cuenta que, esta no se encontrará alineada con la articulación 

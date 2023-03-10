@@ -12,7 +12,7 @@ se planteó hacer la herramienta a través de diferentes piezas de MDF cortadas 
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/Herramienta/herramientaInventor.PNG" scale="0.5">
+<img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/Herramienta/herramientaInventor.PNG" width="300px">
 </p>
 </div>
 

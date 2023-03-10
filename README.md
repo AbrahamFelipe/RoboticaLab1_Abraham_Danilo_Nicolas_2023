@@ -27,10 +27,13 @@ Despues del corte laser se pegaron las piezas y se colocó un tubo de PVC que so
 
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica.
 El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano sin inclinar]() y [plano inclinado](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/tree/main/Paths-CodigoRAPID/Codigo%20RAPID%20plano%20inclinado).
+
+
 ## Video, simulación e implementación
 
 <a href="https://youtube.com/shorts/9Qv1UK5hy0I" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/LetrasPiso.PNG" 
 alt="IMAGE ALT TEXT HERE" width="173" height="319.5" border="10" /></a>
+[Video Escritura de letras en el piso](https://youtube.com/shorts/9Qv1UK5hy0I)
 
 
 

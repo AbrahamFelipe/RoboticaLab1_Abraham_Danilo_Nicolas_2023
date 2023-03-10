@@ -8,7 +8,7 @@
 Para el diseño de la herramienta porta marcador se tuvo en cuenta que, esta no se encontrará alineada con la articulación No. 6.
 
 
-se planteó hacer la herramienta a través de diferentes piezas de MDF cortadas con láser, por lo que se procedió a diseñar el modelo en inventor para obtener los planos y el modelo STL que se exportó a Robot Studio.
+Se planteó hacer la herramienta a través de diferentes piezas de MDF cortadas con láser, por lo que se procedió a diseñar el modelo en inventor para obtener los planos y el modelo STL que se exportó a Robot Studio.
 
 <div>
 <p style = 'text-align:center;'>
@@ -16,15 +16,15 @@ se planteó hacer la herramienta a través de diferentes piezas de MDF cortadas 
 </p>
 </div>
 
+Despues del corte laser se pegaron las piezas y se colocó un tubo de PVC que sostiene el marcador y en el fondo tiene un resorte para darle flexibilidad al momento de escribir.
 
-
-, posteriormente se pegó las piezas y se colocó un tubo de PVC que sostiene el marcador y en el fondo tiene un resorte para darle flexibilidad al momento de escribir. Archivos: [STL](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/cdf70a5ca54b7efc3ba971d285862cd2c907d776/Herramienta/Herramienta.stl), 
-[Plano] (https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/cdf70a5ca54b7efc3ba971d285862cd2c907d776/Herramienta/PlanosCorteLaser.pdf)
 <div>
 <p style = 'text-align:center;'>
-<img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/Herramienta/image_2023-03-10_141452888.png" alt="JuveYell" width="300px">
+<img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/Herramienta/image_2023-03-10_141452888.png" width="300px">
 </p>
 </div>
+
+
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica.
 El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano sin inclinar]() y [plano inclinado](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/tree/main/Paths-CodigoRAPID/Codigo%20RAPID%20plano%20inclinado).
 ## Video, simulación e implementación
@@ -37,3 +37,7 @@ El código RAPID utilizado para los dos ejercicios de escritura se encuentran de
 [Video funcionamiento en plano inclinado](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/VideosSimulacionImplementacion/Implementacion_Inclinacion_Persp1.mp4)
 
 [Video funcionamiento en plano inclinado 2](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/VideosSimulacionImplementacion/Implementacion_Inclinacion_Persp2.mp4)
+
+
+
+[Plano] (https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/cdf70a5ca54b7efc3ba971d285862cd2c907d776/Herramienta/PlanosCorteLaser.pdf)

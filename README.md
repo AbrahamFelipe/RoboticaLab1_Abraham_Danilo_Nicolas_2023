@@ -20,7 +20,11 @@ se planteó hacer la herramienta a través de diferentes piezas de MDF cortadas 
 
 , posteriormente se pegó las piezas y se colocó un tubo de PVC que sostiene el marcador y en el fondo tiene un resorte para darle flexibilidad al momento de escribir. Archivos: [STL](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/cdf70a5ca54b7efc3ba971d285862cd2c907d776/Herramienta/Herramienta.stl), 
 [Plano] (https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/cdf70a5ca54b7efc3ba971d285862cd2c907d776/Herramienta/PlanosCorteLaser.pdf)
-![Herramienta usada](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/Herramienta/image_2023-03-10_141452888.png)
+<div>
+<p style = 'text-align:center;'>
+<img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/Herramienta/image_2023-03-10_141452888.png" alt="JuveYell" width="300px">
+</p>
+</div>
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica.
 El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano sin inclinar]() y [plano inclinado](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/tree/main/Paths-CodigoRAPID/Codigo%20RAPID%20plano%20inclinado).
 ## Video, simulación e implementación

@@ -3,6 +3,7 @@
 - Danilo Enrique Insuasty Delgado.
 - Abraham Másmela Ramirez
 - Nicolas
+## Descripcion de la solucion planteada
 ## Diseño de la herramienta:
-## Codigo en RAPID del m´odulo utilizado para el desarrollo de la practica.
+## Codigo en RAPID del modulo utilizado para el desarrollo de la practica.
 ## Video simulacion e implementacion

@@ -39,7 +39,7 @@ alt="IMAGE ALT TEXT HERE" width="299" height="315" border="10" /></a>
 
 2)Video de la simulacion de la escritura en la superficie inclinada (dar click en la imagen)
 
-<a href="https://youtu.be/egIbVox9zpI" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/simulacion%20Inclinada.PNG" 
+<a href="https://youtu.be/Ptg3gcHkAj4" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/simulacion%20Inclinada.PNG" 
 alt="IMAGE ALT TEXT HERE" width="299" height="290" border="10" /></a>
 
 

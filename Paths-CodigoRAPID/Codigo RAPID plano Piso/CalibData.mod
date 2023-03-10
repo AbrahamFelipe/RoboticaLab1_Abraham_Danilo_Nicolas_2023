@@ -1,0 +1,5 @@
+MODULE CalibData
+    PERS tooldata MARCA:=[TRUE,[[50.156,-0.296,138],[1,0,0,0]],[1,[0,0,1],[1,0,0,0],0,0,0]];
+    PERS tooldata MARCADORBIEN:=[TRUE,[[50,0,138],[1,0,0,0]],[1,[0,0,1],[1,0,0,0],0,0,0]];
+    TASK PERS wobjdata DAN:=[FALSE,TRUE,"",[[466.280975749,230.989994051,50],[0,-0.000983605,0.999999516,0]],[[0,0,0],[1,0,0,0]]];
+ENDMODULE

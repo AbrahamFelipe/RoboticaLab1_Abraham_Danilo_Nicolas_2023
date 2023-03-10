@@ -28,6 +28,53 @@ Despues del corte laser se pegaron las piezas y se colocó un tubo de PVC que so
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica.
 El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano sin inclinar]() y [plano inclinado](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/tree/main/Paths-CodigoRAPID/Codigo%20RAPID%20plano%20inclinado).
 ## Video, simulación e implementación
+
+<div>
+<p style = 'text-align:center;'>
+<iframe width="600" height = "420"
+src="https://youtu.be/Ptg3gcHkAj4">
+</iframe>
+</div>
+</p>
+
+
+<div>
+<p style = 'text-align:center;'>
+<iframe width="600" height = "420"
+src="https://youtu.be/egIbVox9zpI">
+</iframe>
+</div>
+</p>
+
+<div>
+<p style = 'text-align:center;'>
+<iframe width="600" height = "420"
+src="https://youtube.com/shorts/9Qv1UK5hy0I">
+</iframe>
+</div>
+</p>
+
+<div>
+<p style = 'text-align:center;'>
+<iframe width="600" height = "420"
+src="https://youtu.be/gcav8XIhltA">
+</iframe>
+</div>
+</p>
+
+<div>
+<p style = 'text-align:center;'>
+<iframe width="600" height = "420"
+src="https://youtu.be/Ex8J-IRUotk">
+</iframe>
+</div>
+</p>
+
+
+
+
+
+
 [Video simulacion en piso](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/VideosSimulacionImplementacion/Simulacion_Escritura_En_piso.mp4)
 
 [Video funcionamiento en piso](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/VideosSimulacionImplementacion/Implementacion_Piso_Persp1.mp4)

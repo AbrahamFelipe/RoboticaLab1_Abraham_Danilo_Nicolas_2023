@@ -46,6 +46,9 @@ El modelo se importo al RobotStudio y desde ahi se realizaron puntos sobre el co
 
 El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano sin inclinar]() y [plano inclinado](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/tree/main/Paths-CodigoRAPID/Codigo%20RAPID%20plano%20inclinado).
 
+## Obtencion del nuevo WorkObject del plano inclinado
+
+
 
 ## Video, simulación e implementación
 
@@ -79,6 +82,8 @@ alt="IMAGE ALT TEXT HERE" width="379" height="246" border="10" /></a>
 
 <a href="https://youtu.be/gcav8XIhltA" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/LetrasInclinadaP2.PNG" 
 alt="IMAGE ALT TEXT HERE" width="379" height="246" border="10" /></a>
+
+## Conclusiones
 
 
 

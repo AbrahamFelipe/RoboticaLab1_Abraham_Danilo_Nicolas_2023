@@ -33,6 +33,8 @@ El código RAPID utilizado para los dos ejercicios de escritura se encuentran de
 
 <a href="https://youtube.com/shorts/9Qv1UK5hy0I" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/LetrasPiso.PNG" 
 alt="IMAGE ALT TEXT HERE" width="173" height="319.5" border="10" /></a>
+
+
 [Video Escritura de letras en el piso](https://youtube.com/shorts/9Qv1UK5hy0I)
 
 

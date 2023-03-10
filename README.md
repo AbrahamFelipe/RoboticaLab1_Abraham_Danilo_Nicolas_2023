@@ -1,9 +1,9 @@
-## Laboratorio 1 Robotica
+## Laboratorio 1 Robótica
 ### Integrantes: 
 - Danilo Enrique Insuasty Delgado.
 - Abraham Másmela Ramirez
 - Nicolas
-## Descripcion de la solucion planteada
+## Descripción de la solución planteada
 ## Diseño de la herramienta:
-## Codigo en RAPID del modulo utilizado para el desarrollo de la practica.
-## Video simulacion e implementacion
+## Código en RAPID del módulo utilizado para el desarrollo de la práctica.
+## Video, simulación e implementación

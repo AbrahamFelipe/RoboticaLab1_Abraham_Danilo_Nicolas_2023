@@ -28,6 +28,20 @@ Después del corte láser se pegaron las piezas y se colocó un tubo de PVC que 
 ## Generación de trayectorias
 Para realizar las trayectorias primero se realizó en inventor el modelo de las letras a escribir.
 
+<div>
+<p style = 'text-align:center;'>
+<img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/LetrasInventor.PNG" width="300px">
+</p>
+</div>
+
+El modelo se importo al RobotStudio y desde ahi se realizaron puntos sobre el contorno de las letras para posteriormete crear las trayectorias correspondientes. Cabe recalcar que en la rutina tambien se incluyo el movimiento desde el "home" del robot hacia las letras.
+
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/TrayectoriaLetras.PNG" width="300px">
+</p>
+</div>
 
 
 El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano sin inclinar]() y [plano inclinado](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/tree/main/Paths-CodigoRAPID/Codigo%20RAPID%20plano%20inclinado).

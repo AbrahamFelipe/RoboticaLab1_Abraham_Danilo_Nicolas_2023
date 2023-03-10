@@ -1,6 +1,5 @@
-# RoboticaLab1_Abraham_Danilo_Nicolas_2023
-Repositorio lab 1
+##Laboratorio 1 Robotica
 Integrantes: 
-Danilo Enrique Insuasty Delgado.
-Abraham.
-Nicolas
+-Danilo Enrique Insuasty Delgado.
+-Abraham Másmela Ramirez
+-Nicolas

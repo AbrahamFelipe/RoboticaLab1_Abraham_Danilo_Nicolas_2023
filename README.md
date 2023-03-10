@@ -29,7 +29,9 @@ Despues del corte laser se pegaron las piezas y se colocó un tubo de PVC que so
 El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano sin inclinar]() y [plano inclinado](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/tree/main/Paths-CodigoRAPID/Codigo%20RAPID%20plano%20inclinado).
 ## Video, simulación e implementación
 
-[![Comprehensive Markdown Crash Course](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/LetrasPiso.PNG){width=10%}](https://youtube.com/shorts/9Qv1UK5hy0I "Título alternativo")
+<a href="https://youtube.com/shorts/9Qv1UK5hy0I" title="Título alternativo">
+    <img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/LetrasPiso.PNG" alt="Comprehensive Markdown Crash Course" style="max-width:10%;">
+</a>
 
 
 

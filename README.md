@@ -31,11 +31,34 @@ El código RAPID utilizado para los dos ejercicios de escritura se encuentran de
 
 ## Video, simulación e implementación
 
+1)Video de la implementacion de la escritura en el piso (dar click en la imagen)
+
+
 <a href="https://youtube.com/shorts/9Qv1UK5hy0I" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/LetrasPiso.PNG" 
 alt="IMAGE ALT TEXT HERE" width="173" height="319.5" border="10" /></a>
 
 
-[Video Escritura de letras en el piso](https://youtube.com/shorts/9Qv1UK5hy0I)
+2)Videos de la implementacion de la escritura inclinada (dar click en las imagenes)
+
+
+<a href="https://youtu.be/Ex8J-IRUotk" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/LetrasInclinadaP1.PNG" 
+alt="IMAGE ALT TEXT HERE" width="173" height="319.5" border="10" /></a>
+
+
+<a href="https://youtu.be/gcav8XIhltA" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/LetrasInclinadaP2.PNG" 
+alt="IMAGE ALT TEXT HERE" width="173" height="319.5" border="10" /></a>
+
+
+3)Video de la simulacion de la escritura en el piso (dar click en la imagen)
+
+<a href="https://youtu.be/egIbVox9zpI" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/simulacion%20piso.PNG" 
+alt="IMAGE ALT TEXT HERE" width="173" height="319.5" border="10" /></a>
+
+
+4)Video de la simulacion de la escritura en la superficie inclinada (dar click en la imagen)
+
+<a href="https://youtu.be/egIbVox9zpI" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/simulacion%20Inclinada.PNG" 
+alt="IMAGE ALT TEXT HERE" width="173" height="319.5" border="10" /></a>
 
 
 
@@ -46,61 +69,20 @@ alt="IMAGE ALT TEXT HERE" width="173" height="319.5" border="10" /></a>
 
 
 
-<div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://youtu.be/Ptg3gcHkAj4">
-</iframe>
-</div>
-</p>
-
-
-<div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://youtu.be/egIbVox9zpI">
-</iframe>
-</div>
-</p>
-
-<div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://youtube.com/shorts/9Qv1UK5hy0I">
-</iframe>
-</div>
-</p>
-
-<div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://youtu.be/gcav8XIhltA">
-</iframe>
-</div>
-</p>
-
-<div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://youtu.be/Ex8J-IRUotk">
-</iframe>
-</div>
-</p>
 
 
 
 
 
 
-[Video simulacion en piso](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/VideosSimulacionImplementacion/Simulacion_Escritura_En_piso.mp4)
 
-[Video funcionamiento en piso](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/VideosSimulacionImplementacion/Implementacion_Piso_Persp1.mp4)
 
-[Video simulacion en plano inclinado](https://youtu.be/7Xnhduqu580)
 
-[Video funcionamiento en plano inclinado](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/VideosSimulacionImplementacion/Implementacion_Inclinacion_Persp1.mp4)
 
-[Video funcionamiento en plano inclinado 2](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/VideosSimulacionImplementacion/Implementacion_Inclinacion_Persp2.mp4)
+
+
+
+
 
 
 

@@ -46,7 +46,7 @@ alt="IMAGE ALT TEXT HERE" width="173" height="319.5" border="10" /></a>
 
 
 <a href="https://youtu.be/gcav8XIhltA" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/LetrasInclinadaP2.PNG" 
-alt="IMAGE ALT TEXT HERE" width="173" height="319.5" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="333" height="246" border="10" /></a>
 
 
 3)Video de la simulacion de la escritura en el piso (dar click en la imagen)

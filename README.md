@@ -47,8 +47,8 @@ El modelo se importó al RobotStudio y desde ahí se definió el sistema de coor
 El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano sin inclinar]() y [plano inclinado](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/tree/main/Paths-CodigoRAPID/Codigo%20RAPID%20plano%20inclinado).
 
 ## Obtención del nuevo WorkObject del plano inclinado
-Para el desarrollo de escribir sobre un plano inclinado, se modificó el Work Object de nuestra primera rutina desde el FlexPendant, para esto se 
-Para poder inclinar la escritura de las letras con el fin de realizar la segunda parte del laboratorio es necesario redefinir el objeto de trabajo sobre el que se va a escribir, este es definido dentro de la propia interfaz del robot mediante unas coordenas X,Y y Z ademas de 4 cuaterniones, el proceso de calibracion del objeto se hace tocando 3 esquinas del tablero inclinado donde el orden afectara la orientacion del programa ejecutado.
+Para el desarrollo de escribir sobre un plano inclinado, se modificó el Work Object de nuestra primera rutina desde el FlexPendant, para esto se utilizo el medo de tres puntos, se ubicó la punta del marcador en tres esquinas del tablero, de tal forma que se siguiera manteniendo el mismo sentido del sistema coordenado utilizado previamente, de esta manera se obtuvo la nueva traza. 
+Los datos de calibración son los siguientes:
 
 <div>
 <p style = 'text-align:center;' align="center">

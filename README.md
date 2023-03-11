@@ -19,7 +19,7 @@ Se planteó hacer la herramienta a través de diferentes piezas de MDF cortadas 
 Después del corte láser se pegaron las piezas y se colocó un tubo de PVC que sostiene el marcador y en el fondo tiene un resorte para darle flexibilidad al momento de escribir.
 
 <div>
-<p style = 'text-align:center;'>
+<p style = 'text-align:center;' align="center">
 <img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/Herramienta/image_2023-03-10_141452888.png" width="300px">
 </p>
 </div>
@@ -29,7 +29,7 @@ Después del corte láser se pegaron las piezas y se colocó un tubo de PVC que 
 Para realizar las trayectorias primero se realizó en inventor el modelo de las letras a escribir.
 
 <div>
-<p style = 'text-align:center;'>
+<p style = 'text-align:center;' align="center">
 <img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/DAN_Letras.png" width="300px">
 </p>
 </div>
@@ -38,7 +38,7 @@ El modelo se importo al RobotStudio y desde ahi se realizaron puntos sobre el co
 
 
 <div>
-<p style = 'text-align:center;'>
+<p style = 'text-align:center;' align="center">
 <img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/TrayectoriaLetras.PNG" width="300px">
 </p>
 </div>
@@ -52,13 +52,13 @@ Para poder inclinar la escritura de las letras con el fin de realizar la segunda
 
 ## Video, simulación e implementación
 
-1)Video de la simulación de la escritura en el piso (dar click en la imagen)
+1) Video de la simulación de la escritura en el piso (dar click en la imagen)
 
 <a href="https://youtu.be/egIbVox9zpI" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/simulacion%20piso.PNG" 
 alt="IMAGE ALT TEXT HERE" width="299" height="315" border="10" /></a>
 
 
-2)Video de la simulacion de la escritura en la superficie inclinada (dar click en la imagen)
+2) Video de la simulación de la escritura en la superficie inclinada (dar click en la imagen)
 
 <a href="https://youtu.be/Ptg3gcHkAj4" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/simulacion%20Inclinada.PNG" 
 alt="IMAGE ALT TEXT HERE" width="299" height="290" border="10" /></a>
@@ -66,14 +66,14 @@ alt="IMAGE ALT TEXT HERE" width="299" height="290" border="10" /></a>
 
 
 
-3)Video de la implementacion de la escritura en el piso (dar click en la imagen)
+3) Video de la implementación de la escritura en el piso (dar click en la imagen)
 
 
 <a href="https://youtube.com/shorts/9Qv1UK5hy0I" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/LetrasPiso.PNG" 
 alt="IMAGE ALT TEXT HERE" width="173" height="319.5" border="10" /></a>
 
 
-4Videos de la implementacion de la escritura inclinada (dar click en las imagenes)
+4) Videos de la implementación de la escritura inclinada (dar click en las imágenes)
 
 
 <a href="https://youtu.be/Ex8J-IRUotk" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/LetrasInclinadaP1.PNG" 
@@ -84,7 +84,7 @@ alt="IMAGE ALT TEXT HERE" width="379" height="246" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="379" height="246" border="10" /></a>
 
 ## Conclusiones
-
+El desarrollo de la práctica haciendo uso de Inventor, facilitó el desarrollo de la misma, pues al tener modelada la herramienta con las dimensiones reales, al momento de importar a Robot Studio resulto sencillo ubicar el sistema de coordenadas en la punta del marcador, de igual forma el diseño de las letras en Inventor simplificó la creación de las trayectorias.
 
 
 

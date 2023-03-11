@@ -48,18 +48,16 @@ El código RAPID utilizado para los dos ejercicios de escritura se encuentran de
 
 ## Obtención del nuevo WorkObject del plano inclinado
 Para el desarrollo de la nueva rutina, para escribir sobre un plano inclinado, se modificó el Work Object de nuestra primera rutina desde el FlexPendant, para esto se utilizó el medo de tres puntos, se ubicó la punta del marcador en tres esquinas del tablero, de tal forma que se siguiera manteniendo el mismo sentido del sistema coordenado utilizado previamente, de esta manera se obtuvo la nueva traza, de donde se obtuvieron los siguientes datos de calibración:
-
-<div>
-<p style = 'text-align:center;' align="center">
-<img src="OtrasImagenes/Work_Object1.png" width="300px">
+<p align="center">
+| Descripción  | Dato |
+| ------------- | ------------- |
+| X  | 366.09mm |
+| Y  | 610.66mm |
+| Z  | 198.88mm  |
 </p>
-</div>
 
-<div>
-<p style = 'text-align:center;' align="center">
-<img src="OtrasImagenes/Work_Object2.png" width="300px">
-</p>
-</div>
+
+
 
 ## Video, simulación e implementación
 

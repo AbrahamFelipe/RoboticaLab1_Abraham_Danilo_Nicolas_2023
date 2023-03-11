@@ -100,7 +100,8 @@ alt="IMAGE ALT TEXT HERE" width="379" height="246" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="379" height="246" border="10" /></a>
 
 ## Conclusiones
-El uso de Inventor resultó esencial en el desarrollo de esta práctica, al permitir la creación de un modelo preciso de la herramienta con las dimensiones reales. Esto facilitó significativamente la importación al Robot Studio y la ubicación del sistema de coordenadas en la punta del marcador. Asimismo, el diseño de las letras en Inventor simplificó notablemente la creación de las trayectorias necesarias.
+- El uso de Inventor resultó esencial en el desarrollo de esta práctica, al permitir la creación de un modelo preciso de la herramienta con las dimensiones reales. Esto facilitó significativamente la importación al Robot Studio y la ubicación del sistema de coordenadas en la punta del marcador. Asimismo, el diseño de las letras en Inventor simplificó notablemente la creación de las trayectorias necesarias.
+- El uso y entendimiento de diferentes marcos de coordenadas en un sistema robotizado es esencial para el manejo de las rutinas de movimiento del manipulado. En el caso del IBR140 la configuración del sistema de coordenadas de la base, la herramienta y el objeto de trabajo son primordiales para el buen funcionamiento del robot.
 
 
 
@@ -130,4 +131,4 @@ El uso de Inventor resultó esencial en el desarrollo de esta práctica, al perm
 
 
 
-[Plano] (https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/cdf70a5ca54b7efc3ba971d285862cd2c907d776/Herramienta/PlanosCorteLaser.pdf)
+

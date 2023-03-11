@@ -53,7 +53,11 @@ Para el desarrollo de la nueva rutina, para escribir sobre un plano inclinado, s
 | ------------- | ------------- |
 | X  | 366.09mm |
 | Y  | 610.66mm |
-| Z  | 198.88mm  |
+| Z  | 198.88mm |
+| Quaternion 1  | 0.2886 |
+| Quaternion 2  | -0.6437 |
+| Quaternion 3  | 0.6547 |
+| Quaternion 4  | 0.2712 |
 
 
 

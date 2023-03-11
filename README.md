@@ -47,7 +47,7 @@ El modelo se importo al RobotStudio y desde ahi se realizaron puntos sobre el co
 El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano sin inclinar]() y [plano inclinado](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/tree/main/Paths-CodigoRAPID/Codigo%20RAPID%20plano%20inclinado).
 
 ## Obtencion del nuevo WorkObject del plano inclinado
-
+Para poder inclinar la escritura de las letras con el fin de realizar la segunda parte del laboratorio es necesario redefinir el objeto de trabajo sobre el que se va a escribir, este es definido dentro de la propia interfaz del robot tocando 3 de las esquinas del trablero con la punta de la herramienta para que se calibrara la nueva superficia ha tabajar, el sistema requiere de defini 2 puntos X y 1 punto Y. 
 
 
 ## Video, simulación e implementación

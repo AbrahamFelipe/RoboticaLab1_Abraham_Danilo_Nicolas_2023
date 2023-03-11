@@ -54,7 +54,7 @@ Para poder inclinar la escritura de las letras con el fin de realizar la segunda
 
 1) Video de la simulación de la escritura en el piso (dar click en la imagen)
 
-<a href="https://youtu.be/egIbVox9zpI" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/simulacion%20piso.PNG" 
+<a href="https://youtu.be/egIbVox9zpI" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/simulacion%20piso.PNG align="center"" 
 alt="IMAGE ALT TEXT HERE" width="299" height="315" border="10" /></a>
 
 
@@ -84,7 +84,7 @@ alt="IMAGE ALT TEXT HERE" width="379" height="246" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="379" height="246" border="10" /></a>
 
 ## Conclusiones
-El desarrollo de la práctica haciendo uso de Inventor, facilitó el desarrollo de la misma, pues al tener modelada la herramienta con las dimensiones reales, al momento de importar a Robot Studio resulto sencillo ubicar el sistema de coordenadas en la punta del marcador, de igual forma el diseño de las letras en Inventor simplificó la creación de las trayectorias.
+El uso de Inventor resultó esencial en el desarrollo de esta práctica, al permitir la creación de un modelo preciso de la herramienta con las dimensiones reales. Esto facilitó significativamente la importación al Robot Studio y la ubicación del sistema de coordenadas en la punta del marcador. Asimismo, el diseño de las letras en Inventor simplificó notablemente la creación de las trayectorias necesarias.
 
 
 

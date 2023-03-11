@@ -11,8 +11,8 @@ Para el diseño de la herramienta porta marcador se tuvo en cuenta que, esta no 
 Se planteó hacer la herramienta a través de diferentes piezas de MDF cortadas con láser, por lo que se procedió a diseñar el modelo en inventor para obtener los planos y el modelo STL que se exportó a Robot Studio.
 
 <div>
-<p style = 'text-align:center;'>
-<img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/Herramienta/herramientaInventor.PNG" width="300px">
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/Herramienta/herramientaInventor.PNG" width="300px" >
 </p>
 </div>
 

@@ -47,19 +47,21 @@ El modelo se importo al RobotStudio y desde ahi se realizaron puntos sobre el co
 El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano sin inclinar]() y [plano inclinado](https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/tree/main/Paths-CodigoRAPID/Codigo%20RAPID%20plano%20inclinado).
 
 ## Obtencion del nuevo WorkObject del plano inclinado
-Para poder inclinar la escritura de las letras con el fin de realizar la segunda parte del laboratorio es necesario redefinir el objeto de trabajo sobre el que se va a escribir, este es definido dentro de la propia interfaz del robot mediante unas coordenas X,Y y Z ademas de 4 cuaterniones, el proceso de calibracion del objeto se hace tocando 3 esquinas del tablero inclinado donde el orden afectara la orientacion del programa ejecutado.
+Para poder inclinar la escritura de las letras con el fin de realizar la segunda parte del laboratorio es necesario redefinir el objeto de trabajo sobre el que se va a escribir, este es definido dentro de la propia interfaz del robot mediante el metodo de 3 puntos que define el objeto con unas coordenas X,Y y Z ademas de 4 cuaterniones, el proceso de calibracion del objeto se hace tocando 3 esquinas del tablero inclinado donde el orden afectara la orientacion del programa ejecutado. Los resultados obtenidos son los siguientes:
 
-<div>
-<p style = 'text-align:center;' align="center">
-<img src="OtrasImagenes/Work_Object1.png" width="300px">
-</p>
-</div>
+X=366.0996 mm
 
-<div>
-<p style = 'text-align:center;' align="center">
-<img src="OtrasImagenes/Work_Object2.png" width="300px">
-</p>
-</div>
+Y=610.7638 mm
+
+Z=198.883 mm
+
+Q1=0.288676738839014
+
+Q2=-0.643742322921753
+
+Q3=0.354749393463135
+
+Q4=0.271228288643723
 
 ## Video, simulación e implementación
 

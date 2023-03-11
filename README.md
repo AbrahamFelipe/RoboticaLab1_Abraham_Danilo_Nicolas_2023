@@ -60,6 +60,9 @@ Para el desarrollo de la nueva rutina, para escribir sobre un plano inclinado, s
 | Quaternion 4  | 0.2712 |
 
 
+Con este nuevo WorkObject se realizó la escritura de las letras sobre el plano inclinado
+
+
 
 
 

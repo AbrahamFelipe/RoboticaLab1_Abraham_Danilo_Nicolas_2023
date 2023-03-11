@@ -54,7 +54,7 @@ Para poder inclinar la escritura de las letras con el fin de realizar la segunda
 
 1) Video de la simulación de la escritura en el piso (dar click en la imagen)
 
-<a href="https://youtu.be/egIbVox9zpI" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/simulacion%20piso.PNG align="center"" 
+<a href="https://youtu.be/egIbVox9zpI" target="_blank"><img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/simulacion%20piso.PNG" 
 alt="IMAGE ALT TEXT HERE" width="299" height="315" border="10" /></a>
 
 

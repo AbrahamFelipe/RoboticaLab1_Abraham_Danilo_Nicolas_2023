@@ -30,7 +30,7 @@ Para realizar las trayectorias primero se realizó en inventor el modelo de las 
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/LetrasInventor.PNG" width="300px">
+<img src="https://github.com/AbrahamFelipe/RoboticaLab1_Abraham_Danilo_Nicolas_2023/blob/main/OtrasImagenes/DAN_Letras.png" width="300px">
 </p>
 </div>
 
